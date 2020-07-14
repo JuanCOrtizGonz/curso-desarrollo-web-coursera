@@ -38,18 +38,21 @@ div button {
     flex: 1;
     margin: 0px 10px 10px 10px;
     padding: 0px;
+    background-color: #CDCDCD;
 }
 
 .second-box {
     flex: 1;
     margin: 0px 10px 10px 10px;
     padding: 0px;
+    background-color: #CDCDCD;
 }
 
 .third-box {
     flex: 1;
     margin: 0px 10px 10px 10px;
     padding: 0px;
+    background-color: #CDCDCD;
 }
 
 .text-element {
